@@ -1,7 +1,7 @@
-torch==1.8.1
+torch==2.9.0
 numpy
 lmdb
 tqdm
 unicodedata2
 nltk
-jupyter-notebook
+unidecode
